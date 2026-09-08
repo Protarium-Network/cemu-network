@@ -68,3 +68,5 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ## ⚠️ Disclaimer
 
 This project is not affiliated with Nintendo or the Cemu development team. Use at your own risk. All trademarks are the property of their respective owners.
+
+_Maintained by [noctis-nex](https://github.com/noctis-nex) as part of Protarium Network.
