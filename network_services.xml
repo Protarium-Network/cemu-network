@@ -10,7 +10,7 @@
         <ccsu>https://ccs.wup.shop.nintendo.net/ccs/download</ccsu>
         <ccs>http://ccs.cdn.wup.shop.nintendo.net/ccs/download</ccs>
         <idbe>https://idbe-wup.cdn.nintendo.net/icondata</idbe>
-        <boss>https://api.protarium.lol/p01/tasksheet</boss>
+        <boss>https://npts.app.protarium.lol/p01/tasksheet</boss>
         <tagaya>https://tagaya.wup.shop.nintendo.net/tagaya/versionlist</tagaya>
         <olv>https://disc.protarium.lol/v1/endpoint</olv>
     </urls>
