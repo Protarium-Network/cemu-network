@@ -55,7 +55,8 @@ network_services.xml    # Place this in your Cemu root directory
 ## 🔗 Requirements
 
 - [Cemu](https://cemu.info/) v2.0 or later (tested on v2.6)
-- A Protarium account — visit [protarium.lol](https://protarium.lol) for more information
+- A Valid Pretendo account — visit [Pretendo](https://pretendo.network) for more information
+- A Valid Wii U Online Files Dump **FROM YOUR OWN CONSOLE**
 
 ## 🤝 Contributing
 
