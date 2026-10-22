@@ -3,7 +3,7 @@
     <networkname>Protarium</networkname>
     <disablesslverification>1</disablesslverification>
     <urls>
-        <act>https://account.protarium.lol</act>
+        <act>https://account.protarium.online</act>
         <ecs>https://ecs.wup.shop.nintendo.net/ecs/services/ECommerceSOAP</ecs>
         <nus>https://nus.wup.shop.nintendo.net/nus/services/NetUpdateSOAP</nus>
         <ias>https://ias.wup.shop.nintendo.net/ias/services/IdentityAuthenticationSOAP</ias>
