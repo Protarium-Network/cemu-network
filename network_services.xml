@@ -12,6 +12,6 @@
         <idbe>https://idbe-wup.cdn.nintendo.net/icondata</idbe>
         <boss>https://npts.app.protarium.lol/p01/tasksheet</boss>
         <tagaya>https://tagaya.wup.shop.nintendo.net/tagaya/versionlist</tagaya>
-        <olv>https://disc.protarium.lol/v1/endpoint</olv>
+        <olv>https://disc.protarium.online/v1/endpoint</olv>
     </urls>
 </content>
