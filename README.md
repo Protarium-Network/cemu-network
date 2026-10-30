@@ -6,7 +6,7 @@ Configuration file to connect [Cemu](https://cemu.info/) (Wii U emulator) to the
 
 ## 📋 What is this?
 
-This repository contains the `network_services.xml` file that redirects Cemu's online services to [Protarium](https://protarium.lol) servers, enabling online functionality through the Protarium network.
+This repository contains the `network_services.xml` file that redirects Cemu's online services to [Protarium](https://protarium.online) servers, enabling online functionality through the Protarium network.
 
 ## 🔧 Installation
 
@@ -29,9 +29,9 @@ This repository contains the `network_services.xml` file that redirects Cemu's o
 
 | Service | Description | Endpoint |
 |---------|-------------|----------|
-| **ACT** (Account) | Account server & authentication | `account.protarium.lol` |
-| **BOSS** (SpotPass) | Background data delivery | `npts.app.protarium.lol` |
-| **OLV** (Miiverse) | Miiverse social network | `disc.protarium.lol` |
+| **ACT** (Account) | Account server & authentication | `account.protarium.online` |
+| **BOSS** (SpotPass) | Background data delivery | `npts.app.protarium.online` |
+| **OLV** (Miiverse) | Miiverse social network | `disc.protarium.online` |
 | **ECS** | eShop services | Nintendo (default) |
 | **NUS** | System & title updates | Nintendo (default) |
 | **IAS** | Identity authentication | Nintendo (default) |

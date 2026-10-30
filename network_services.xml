@@ -3,15 +3,15 @@
     <networkname>Protarium</networkname>
     <disablesslverification>1</disablesslverification>
     <urls>
-        <act>https://account.protarium.lol</act>
+        <act>https://account.protarium.online</act>
         <ecs>https://ecs.wup.shop.nintendo.net/ecs/services/ECommerceSOAP</ecs>
         <nus>https://nus.wup.shop.nintendo.net/nus/services/NetUpdateSOAP</nus>
         <ias>https://ias.wup.shop.nintendo.net/ias/services/IdentityAuthenticationSOAP</ias>
         <ccsu>https://ccs.wup.shop.nintendo.net/ccs/download</ccsu>
         <ccs>http://ccs.cdn.wup.shop.nintendo.net/ccs/download</ccs>
         <idbe>https://idbe-wup.cdn.nintendo.net/icondata</idbe>
-        <boss>https://npts.app.protarium.lol/p01/tasksheet</boss>
+        <boss>https://npts.app.protarium.online/p01/tasksheet</boss>
         <tagaya>https://tagaya.wup.shop.nintendo.net/tagaya/versionlist</tagaya>
-        <olv>https://disc.protarium.lol/v1/endpoint</olv>
+        <olv>https://disc.protarium.online/v1/endpoint</olv>
     </urls>
 </content>
